@@ -107,7 +107,7 @@ La ruta base es: https://chile-regiones-api.herokuapp.com/api
 ]
 ```
 
-## GET /regions
+## GET /regions-communes
 
 - Entrega la lista de todas las regiones (16) con sus comunas (a modo de referencia, se muestran solo las primeras dos en el ejemplo).
 
